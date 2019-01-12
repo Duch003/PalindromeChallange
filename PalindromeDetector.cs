@@ -78,5 +78,10 @@ namespace PalindromeChallange
         }
 
         public static bool IsPalindrome(int input) => IsPalindrome(input.ToString());
+
+        public static bool IsPalindrome(double input) => IsPalindrome(input.ToString());
+
+
+
     }
 }

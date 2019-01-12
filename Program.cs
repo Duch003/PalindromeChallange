@@ -11,7 +11,7 @@ namespace PalindromeChallange
     {
         static void Main(string[] args)
         {
-            var result = PalindromeDetector.IsPalindrome("Anna");
+            var result = PalindromeDetector.IsPalindrome((double)123.21);
         }
 
         
