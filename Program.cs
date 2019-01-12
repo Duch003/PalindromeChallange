@@ -11,7 +11,14 @@ namespace PalindromeChallange
     {
         static void Main(string[] args)
         {
-            var result = PalindromeDetector.IsPalindrome((double)123.21);
+            while (true)
+            {
+                Console.Clear();
+                Console.WriteLine("Type your text or number. All not letters or not digits are ignored:");
+                Console.WriteLine(PalindromeDetector.IsPalindrome("\n" + Console.ReadLine() + "\n"));
+                Console.WriteLine("Press ENTER to repeat...");
+                Console.ReadLine();
+            }
         }
 
         
