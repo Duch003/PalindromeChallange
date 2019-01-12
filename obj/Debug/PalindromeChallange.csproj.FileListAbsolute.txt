@@ -1,0 +1,6 @@
+C:\Users\Duch003\source\repos\PalindromeChallange\PalindromeChallange\bin\Debug\PalindromeChallange.exe.config
+C:\Users\Duch003\source\repos\PalindromeChallange\PalindromeChallange\bin\Debug\PalindromeChallange.exe
+C:\Users\Duch003\source\repos\PalindromeChallange\PalindromeChallange\bin\Debug\PalindromeChallange.pdb
+C:\Users\Duch003\source\repos\PalindromeChallange\PalindromeChallange\obj\Debug\PalindromeChallange.csproj.CoreCompileInputs.cache
+C:\Users\Duch003\source\repos\PalindromeChallange\PalindromeChallange\obj\Debug\PalindromeChallange.exe
+C:\Users\Duch003\source\repos\PalindromeChallange\PalindromeChallange\obj\Debug\PalindromeChallange.pdb
